@@ -1,0 +1,1 @@
+INSERT INTO user(email,password,marathons_completed,current_organizer_count,total_points) VALUES("Admin","$2a$10$Y3KUKWExxGDFTWGGjwnnQeE1qGmHyCe2/DVP4YqQkrqXfIkuNVXbu",11,0,0);
